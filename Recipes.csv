@@ -1,0 +1,5 @@
+name,ingredients,category,instructions
+Cookies,"['sugar', 'flour', 'water', 'vanila', 'chocolate']",Dessert,fetch decode execute
+Cake,"['sugar', 'flour', 'water']",Dessert,fetch decode execute
+Burger,"['beef', 'bread', 'tomato', 'lettuce', 'bacon', 'cheese']",Main Dish,fetch decode execute
+Ntakos,"['feta cheese', 'paksimadi', 'tomato', 'olive oil', 'oregano']",Apetizer,fetch decode execute
